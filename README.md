@@ -1,2 +1,2 @@
 # AI_generated
-ChatGPT iOS code
+AI assisted iOS code
